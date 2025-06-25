@@ -1,0 +1,1 @@
+FinJuego.o: FinJuego.s
