@@ -1,0 +1,16 @@
+# Ignorar archivos y carpetas del sistema
+.DS_Store
+
+# Ignorar carpeta de compilación y binarios
+build/
+*.o
+*.exe
+*.elf
+
+# Ignorar archivos temporales de editores comunes
+*.swp
+*.tmp
+
+# Ignorar entorno virtual o carpetas de dependencias (si usas)
+venv/
+.env
